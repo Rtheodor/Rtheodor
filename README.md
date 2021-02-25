@@ -1,4 +1,7 @@
-# Hey 👋
+<div align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
+</div>
+
 
 My name is Rafael Da Cunha Theodoro 🇧🇷
 
