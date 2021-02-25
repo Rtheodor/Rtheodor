@@ -4,7 +4,7 @@ My name is Rafael Da Cunha Theodoro 🇧🇷
 
 I'm developer.  💻
 
-### 🌍 "a mente que se abre a uma nova idéia jamais voltará ao seu tamanho original" 🧠
+### 🌍 “The mind that opens up to a new idea never returns to its original size.” – Albert Einstein. 🧠
 
 - 📍 From SP living in São Paulo
 
