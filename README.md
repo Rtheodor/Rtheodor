@@ -37,6 +37,11 @@ I'm developer.  💻
 
 
 
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Rtheodor&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+
 <!--
 **Rtheodor/Rtheodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
