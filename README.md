@@ -34,15 +34,19 @@ I'm developer.  💻
 
 
 <b>Systems</b>
-
+   
+    
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
+ <b>Sound</b>
+ 
+    
+ <a href="https://open.spotify.com/user/rafaeltheodor?si=e2fc1bc885bc42c4"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Rtheodor&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
 
 <!--
 **Rtheodor/Rtheodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
