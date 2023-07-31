@@ -7,7 +7,7 @@ My name is Rafael Da Cunha Theodoro 🇧🇷
 
 I'm Devloper.  💻
 
-### 🌍 “The mind that opens up to a new idea never returns to its original size.” – Albert Einstein. 🧠
+### 
 
 - 📍 From SP living in São Paulo
 
